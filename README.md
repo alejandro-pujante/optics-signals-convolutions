@@ -1,0 +1,1 @@
+This is a repo with a example of convolution of two signal normaly used in optics signal processing. A simulation of the convolution has been created with matplotlib funcanimation and you can find de video in this repo.
